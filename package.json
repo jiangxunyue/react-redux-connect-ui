@@ -1,0 +1,49 @@
+{
+  "_from": "react-redux-connect-ui",
+  "_id": "react-redux-connect-ui@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-cVKaZUcsnADjTghs9erJmWSfCIw=",
+  "_location": "/react-redux-connect-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-redux-connect-ui",
+    "name": "react-redux-connect-ui",
+    "escapedName": "react-redux-connect-ui",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-redux-connect-ui/download/react-redux-connect-ui-1.2.0.tgz",
+  "_shasum": "71529a65472c9c00e34e086cf5eac999649f088c",
+  "_spec": "react-redux-connect-ui",
+  "_where": "/Users/yi/Documents/Project/react-redux-connect-ui",
+  "author": {
+    "name": "dsy"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fbjs": "0.8.16",
+    "react": "^16.0.0-alpha.6",
+    "react-redux": "^5.0.6"
+  },
+  "deprecated": false,
+  "description": "react-redux -- reselect",
+  "keywords": [
+    "react-redux",
+    "redux",
+    "reselect"
+  ],
+  "license": "ISC",
+  "main": "react-redux-connect-ui.js",
+  "name": "react-redux-connect-ui",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.0"
+}
